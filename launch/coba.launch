@@ -1,0 +1,3 @@
+<launch>
+    <node name="coba" pkg="navstack_pub" type="coba_node" output="screen"/>
+</launch>
